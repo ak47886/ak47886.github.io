@@ -18,8 +18,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-   
-  {
+    {
       "key": "csp_MGTV",
       "name": "🍋芒果〔SP〕",
       "type": 3,
@@ -38,7 +37,6 @@
       "filterable": 1
     },
    
-  
     {
       "key": "csp_77",
       "name": "🎬七七〔SP〕",
@@ -66,36 +64,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "追剧喵",
-      "name": "😸追喵〔SP〕",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
    
-    {
-      "key": "csp_Cokemv",
-      "name": "🍰Coke〔SP〕",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
    
-    {
-      "key": "csp_hbys",
-      "name": "✂简影〔SP〕",
-      "type": 3,
-      "api": "csp_JianYing",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"
-    },
+  
     {
       "key": "csp_Bili",
       "name": "🅱哔哩〔SP〕",
@@ -104,60 +75,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/Bili.json"
+      "ext": "./biubiu/Bili.json"
     },
-    {
-            "key": "知识",
-            "name": "⚜️学堂〔SP〕",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx1.json"
-        },
-        {
-            "key": "儿童",
-            "name": "👶儿童〔SP〕",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx2.json"
-        },
-        {
-            "key": "小学",
-            "name": "🧒小学〔SP〕",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx3.json"
-        },
-        {
-            "key": "初中",
-            "name": "🧑初中〔SP〕",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx4.json"
-        },
-        {
-            "key": "高中",
-            "name": "🙋‍♂️高中〔SP〕",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/xx5.json"
-        },
-
-    
+   
+  
    
     {
       "key": "csp_XYQBiu_影视工厂",
@@ -167,18 +88,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/影视工厂.json"
+      "ext": "./XYQBiu/影视工厂.json"
     },
-    {
-      "key": "csp_XYQBiu_555影视",
-      "name": "🍵35dy〔XY〕",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/555dy.json"
-    },
+    
     {
       "key": "万能影院(XYQ)",
       "name": "⚓万能〔XY〕",
@@ -187,7 +99,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/万能影院.json"
+      "ext": "./XYQBiu/万能影院.json"
+    },
+	{
+      "key": "剧荒影院(XYQ)",
+      "name": "🥤剧荒〔XY〕",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "./XYQBiu/剧荒电影.json"
     },
     {
       "key": "歪片星球",
@@ -197,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/歪片星球.json"
+      "ext": "./XYQBiu/歪片星球.json"
     },
     {
       "key": "多多",
@@ -223,26 +145,8 @@
         "欧美剧"
       ]
     },
-     {
-      "key": "剧荒影院(XYQ)",
-      "name": "🥤剧荒〔XY〕",
-      "type": 3,
-      "api": "csp_XYQBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/XYQBiu/剧荒电影.json"
-    },
-    {
-      "key": "csp_biubiu_WMKK",
-      "name": "💎完美〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/wmkk.json"
-    },
+     
+   
     {
       "key": "csp_biubiu_影视工厂",
       "name": "🏭Ysgc〔XB〕",
@@ -251,7 +155,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/影视工厂.json"
+      "ext": "./biubiu/影视工厂.json"
     },
     {
       "key": "蓝光影院",
@@ -261,9 +165,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/lgyy.json"
+      "ext": "./biubiu/lgyy.json"
     },
-   
+    
     {
       "key": "csp_biubiu_饭团",
       "name": "💙饭团〔XB〕",
@@ -275,39 +179,6 @@
       "ext": " {\r\n  \"name\": \"饭团高清\",\r\n  \"url\": \"https://www.fantuanhd.com\",\r\n  \"User\": \"User-Agent:Dart/2.14 (dart:io)\",\r\n  \"shouye\": \"1\",\r\n  \"fenlei\": \"电视剧$/show/id-21/page/#电影$/show/id-20/page/#综艺$/show/id-22/page/#动漫$/show/id-23/page/\",\r\n  \"houzhui\": \".html\",\r\n  \"shifouercijiequ\": \"0\",\r\n  \"jiequqian\": \"空\",\r\n  \"jiequhou\": \"空\",\r\n  \"jiequshuzuqian\": \"class=\\\"stui-vodlist__box\\\">\",\r\n  \"jiequshuzuhou\": \"</span>\",\r\n  \"tupianqian\": \"data-original=\\\"\",\r\n  \"tupianhou\": \"\\\"\",\r\n  \"biaotiqian\": \"title=\\\"\",\r\n  \"biaotihou\": \"\\\"\",\r\n  \"lianjieqian\": \"href=\\\"\",\r\n  \"lianjiehou\": \"\\\"\",\r\n  \"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",\r\n  \"sousuohou\": \"&limit=500\",\r\n  \"sousuohouzhui\": \"//detail/id-\",\r\n  \"ssmoshi\": \"0\",\r\n  \"sousuoshifouercijiequ\": \"0\",\r\n  \"jspic\": \"pic\",\r\n  \"jsname\": \"name\",\r\n  \"jsid\": \"id\",\r\n  \"ssjiequqian\": \"空\",\r\n  \"ssjiequhou\": \"空\",\r\n  \"ssjiequshuzuqian\": \"空\",\r\n  \"ssjiequshuzuhou\": \"空\",\r\n  \"sstupianqian\": \"空\",\r\n  \"sstupianhou\": \"空\",\r\n  \"ssbiaotiqian\": \"空\",\r\n  \"ssbiaotihou\": \"空\",\r\n  \"sslianjieqian\": \"空\",\r\n  \"sslianjiehou\": \"空\",\r\n  \"bfshifouercijiequ\": \"0\",\r\n  \"bfjiequqian\": \"空\",\r\n  \"bfjiequhou\": \"空\",\r\n  \"zhuangtaiqian\": \"更新：\",\r\n  \"zhuangtaihou\": \"</p>\",\r\n  \"daoyanqian\": \"导演：\",\r\n  \"daoyanhou\": \"</p>\",\r\n  \"zhuyanqian\": \"主演：\",\r\n  \"zhuyanhou\": \"</p>\",\r\n  \"juqingqian\": \"简介：\",\r\n  \"juqinghou\": \"</p>\",\r\n  \"bfjiequshuzuqian\": \"class=\\\"play-item cont\",\r\n  \"bfjiequshuzuhou\": \"</div>\",\r\n  \"bfyshifouercijiequ\": \"0\",\r\n  \"bfyjiequqian\": \"空\",\r\n  \"bfyjiequhou\": \"空\",\r\n  \"bfyjiequshuzuqian\": \"<li\",\r\n  \"bfyjiequshuzuhou\": \"</li>\",\r\n  \"bfbiaotiqian\": \"html\\\">\",\r\n  \"bfbiaotihou\": \"</a>\",\r\n  \"bflianjieqian\": \"href=\\\"\",\r\n  \"bflianjiehou\": \"\\\"\"\r\n}"
     },
     
-    {
-      "key": "csp_biubiu_555",
-      "name": "📹35dy〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/555.json"
-    },
-    {
-      "key": "csp_biubiu_奇优影院ns",
-      "name": "🌻奇优〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/奇优影院(ns).json"
-    },
-    {
-      "key": "csp_biubiu_黑狐影视ns",
-      "name": "🦊黑狐〔XB〕",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.iqiq.io/ak47886/mytv/main/biubiu/黑狐影视(ns).json"
-    },
-    
-    
-   
    
     {
       "key": "zhaozy",
@@ -319,26 +190,7 @@
       "filterable": 1,
       "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
     },
-    {
-      "key": "csp_Yiso",
-      "name": "🥛易搜〔搜〕",
-      "type": 3,
-      "api": "csp_Yiso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
-    },
-    {
-      "key": "AliPS",
-      "name": "🔍盘搜〔搜〕",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://111.67.196.181/xpath/%E5%A4%AA%E9%99%BD-%E7%9B%98%E6%90%9C%E8%B5%84%E6%BA%90.json"
-    },
+   
     {
       "key": "push_agent2",
       "name": "📽️推送〔投〕",
@@ -363,7 +215,7 @@
       ]
     }
   ],
-"parses": [
+ "parses": [
     {
       "name": "json聚合",
       "type": 3,
@@ -681,5 +533,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://raw.iqiq.io/ak47886/mytv/main/bao/jh0903.jar"
+  "spider": "./bao/jh0903.jar"
 }
