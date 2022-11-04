@@ -101,16 +101,17 @@
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/ak47886.github.io/main/XYQBiu/万能影院.json"
     },
-	{
-      "key": "剧荒影院(XYQ)",
-      "name": "🥤剧荒〔XY〕",
+    {
+      "key": "csp_XYQBiu_555影视",
+      "name": "🍵35dy〔XY〕",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/ak47886.github.io/main/XYQBiu/剧荒电影.json"
-    },
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/ak47886.github.io/main/XYQBiu/555dy.json"
+    },  
+     
     {
       "key": "歪片星球",
       "name": "🛸歪片〔XY〕",
@@ -120,7 +121,19 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/ak47886.github.io/main/XYQBiu/歪片星球.json"
+    },  
+	  
+    {
+      "key": "剧荒影院(XYQ)",
+      "name": "🥤剧荒〔XY〕",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/ak47886.github.io/main/XYQBiu/剧荒电影.json"
     },
+   
     {
       "key": "多多",
       "name": "🍷多多〔CJ〕",
