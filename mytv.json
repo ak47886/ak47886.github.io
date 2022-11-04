@@ -66,25 +66,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "追剧喵",
-      "name": "😸追喵〔SP〕",
-      "type": 3,
-      "api": "csp_ZJMiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-   
-    {
-      "key": "csp_Cokemv",
-      "name": "🍰Coke〔SP〕",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+    
    
     {
       "key": "csp_hbys",
