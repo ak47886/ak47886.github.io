@@ -34,6 +34,16 @@
       "filterable": 0,
       "ext": "https://www.2020dy.cc/type/{cateId}-{catePg}/"
     },
+	{
+      "key": "csp_xb_35dy",
+      "name": "三五电影〔XB〕",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.o8tv.com/vodshow/{cateId}--------{catePg}---.html"
+    },
     
     {
       "key": "csp_xb_wnvod",
