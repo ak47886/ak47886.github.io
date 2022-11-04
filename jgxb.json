@@ -24,16 +24,17 @@
       "filterable": 0,
       "ext": "https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"
     },
-    {
-      "key": "csp_xb_6080x",
-      "name": "神马影院〔XB〕",
+	{
+      "key": "csp_xb_shuangshi",
+      "name": "双十电影〔XB〕",
       "type": 3,
       "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://www.6080x.cc/list/{cateId}-{catePg}.html"
+      "ext": "https://www.2020dy.cc/type/{cateId}-{catePg}/"
     },
+    
     {
       "key": "csp_xb_wnvod",
       "name": "万能影视〔XB〕",
@@ -54,16 +55,7 @@
       "filterable": 0,
       "ext": "https://www.1080kan.tv/show/{cateId}--------{catePg}---.html"
     },
-	{
-      "key": "csp_xb_shuangshi",
-      "name": "双十电影〔XB〕",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.2020dy.cc/type/{cateId}-{catePg}/"
-    },
+	
 	{
       "key": "csp_xb_libvio",
       "name": "LIBVIOO 〔XB〕",
@@ -74,7 +66,18 @@
       "filterable": 0,
       "ext": "https://www.libvio.me/type/{cateId}-{catePg}.html"
     },
-
+	
+    {
+      "key": "csp_xb_6080x",
+      "name": "神马影院〔XB〕",
+      "type": 3,
+      "api": "csp_XBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.6080x.cc/list/{cateId}-{catePg}.html"
+    },
+	
     {
       "key": "多多",
       "name": "多多采集〔CJ〕",
