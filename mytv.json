@@ -1,15 +1,6 @@
 {
   "sites": [
-     {
-      "key": "T4",
-      "name": "🐞搜索〔T4〕",
-      "type": 4,
-      "api": "https://t4.secan.icu/vod?sites=all&ali_token=a60a9387a6124e47ac78c726a02dba6d&timeout=10",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-	{
+    {
       "key": "360_spider",
       "name": "📺360〔SP〕",
       "type": 3,
