@@ -1,43 +1,60 @@
 {
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/Pandora2277.github.io/main/cs.jar",  
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/ak47886/ak47886.github.io/main/bao/ts1028.txt",  
 
 "sites": [
 
-{"key":"SP360","name":"360〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-{"key":"Kuaikan","name":"快看〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
-{"key":"Kunyu77","name":"七七〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0"},
-{"key":"Yanet","name":"奶飞〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a369b1f623fe86605f1b029f0cf66349"},
-{"key":"Lgyy","name":"蓝光〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
-{"key":"Dy555","name":"555〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
-{"key":"Pang","name":"胖虎〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
-{"key":"Hei","name":"石榴〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
-{"key":"Czsapp","name":"厂长〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3"},
-{"key":"LiteApple","name":"苹果〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
-{"key":"Bili","name":"哔哩〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#http://home.jundie.top:81/ray/json/bili.json"},
-
-
-
-{"key":"AppTT","name":"图图〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
-{"key":"Zjdr","name":"追剧〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
-{"key":"Tian","name":"天天〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
-{"key":"Smdyy","name":"神马〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"16705ee9f4764be8499806f52d4bf1e7"},
-{"key":"Ddys","name":"低端〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
-{"key":"Dm84","name":"动漫","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"572192a9fe2136041a58e7219a46fb2b"},
-{"key":"IKan","name":"爱看〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
-{"key":"Auete","name":"奥特〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b04b15448ad5bd4312f1fa1fb9aa9b1b"},
-{"key":"Cokemv","name":"可乐〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70"},
-{"key":"Lib","name":"乐伯〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
-{"key":"Zxzj","name":"在线〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
-{"key":"Xiaoh","name":"小黄〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-{"key":"Gitcafe","name":"纸条〔SP〕","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
-{"key":"Tbook","name":"听书〔SP〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784"},
-{"key":"AList","name": "云盘〔SP〕","type": 3,"api":"csp_AList","searchable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},
-{"key":"Zhaozy","name":"找源〔SP〕","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
-{"key":"YiSo","name":"易搜〔SP〕","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
-{"key":"AliPS","name":"盘搜〔SP〕","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"},
-{"key":"push_agent","name":"推送〔SP〕","type":"3","api":"csp_PushAgent","searchable":"1","quickSearch":"1","filterable":"1","ext":"http://home.jundie.top:666/token.txt"}
 	
 
+	 {
+      "key": "Kuaikan",
+      "name": "快看影视〔SP〕",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": ""
+    },
+	{
+      "key": "csp_apple",
+      "name": "小小苹果〔SP〕",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": ""
+    },
+   {"key":"Lgyy","name":"蓝光影院〔SP〕","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
+   {"key":"Smdyy","name":"神马影院〔SP〕","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
+   {
+      "key": "Zjdr",
+      "name": "追剧达人〔SP〕",
+      "type": 3,
+      "api": "csp_Zjdr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": ""
+    },
+	{
+      "key": "AppTT",
+      "name": "图图达人〔SP〕",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar": ""
+    },
+   
+   {"key":"Ddys","name":"低端影视〔SP〕","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
+   
+   {"key":"IKan","name":"爱看影视〔SP〕","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar": ""},
+   {"key":"Yanet","name":"奶飞影视〔SP〕","type":3,"api":"csp_Yanet","searchable":1,"quickSearch":1,"filterable":1,"jar": ""}
+	
+	
+ 
   ],
   "lives": [
     {
