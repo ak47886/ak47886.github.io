@@ -66,17 +66,6 @@
       "ext": "https://www.1080kan.tv/show/{cateId}--------{catePg}---.html"
     },
 	
-	{
-      "key": "csp_xb_libvio",
-      "name": "LIBVIOO 〔XB〕",
-      "type": 3,
-      "api": "csp_XBiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://www.libvio.me/type/{cateId}-{catePg}.html"
-    },
-	
     {
       "key": "csp_xb_6080x",
       "name": "神马影院〔XB〕",
