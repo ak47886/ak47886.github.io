@@ -75,16 +75,18 @@
       "name": "keyu",
       "type": 1,
       "url": "http://newjiexi.gotka.top/keyu3.php?url=",
-      "ext": {
-        "header": {
+      "ext":
+       {
+        "header":
+         {
           "User-Agent": "okhttp/4.1.0"
-        }
-      }
+         }
+       }
     },
-    {
-      "name": "江湖",
+   {
+      "name": "vipmv",
       "type": 1,
-      "url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+      "url": "http://jx.vipmv.co/json.php?token=123457&url="
     },
     {
       "name": "rx2",
@@ -92,35 +94,44 @@
       "url": "http://rxjx.kuanjv.com/allm3u8.php?url="
     },
     {
-      "name": "BT5V",
+      "name": "lanlan",
       "type": 1,
-      "url": "https://rx.bt5v.com/json/jsonindex.php/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "url": "http://123.57.56.94:9931/lanlan/?url="
     },
-    {
-      "name": "手1",
+	    
+
+{
+      "name": "xmflv",
       "type": 0,
-      "url": "https://jx.bozrc.com:4433/player/?url=",
-      "ext": {
-        "header": {
-          "User-Agent": "Mozilla/5.0"
-        }
-      }
+      "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "手2",
+      "name": "freejson",
+      "type": 0,
+      "url": "https://h5.freejson.xyz/player/?url="
+    },
+   {
+      "name": "okjx",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
+    },
+    {
+      "name": "rx88",
       "type": 0,
       "url": "https://freejx.rx88.top:1234/?url="
     },
     {
-      "name": "手3",
+      "name": "bljiex",
       "type": 0,
       "url": "https://vip.bljiex.com/?v="
+    },
+   
+    {
+      "name": "8090",
+      "type": 0,
+      "url": "https://www.8090g.cn/?url="
     }
+
   ],
   "flags": [
     "youku",
